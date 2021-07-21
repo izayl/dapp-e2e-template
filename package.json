@@ -1,0 +1,15 @@
+{
+  "name": "dapp-e2e-template",
+  "version": "1.0.0",
+  "description": "template for end to end test with dapp",
+  "main": "index.js",
+  "repository": "git@github.com:izayl/dapp-e2e-template.git",
+  "author": "izayl <izayl@163.com>",
+  "license": "MIT",
+  "engines": {
+    "node": ">12"
+  },
+  "devDependencies": {
+    "cypress": "^8.0.0"
+  }
+}
